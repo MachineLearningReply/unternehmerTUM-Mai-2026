@@ -1,0 +1,1006 @@
+message_id,user_id,timestamp,channel,sender,message_text,hour,day_of_week
+M0000005,U00001,2026-04-03T13:01:23+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,4
+M0000002,U00001,2026-04-04T13:22:52+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,13,5
+M0000004,U00001,2026-04-04T14:44:13+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,5
+M0000957,U00001,2026-04-10T23:44:12+01:00,SMS,Delivery-Notice,A package is waiting. Confirm address and pay small fee: https://track-fee.example,23,4
+M0000001,U00001,2026-04-15T10:05:13+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,10,2
+M0000003,U00001,2026-04-20T16:11:35+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,0
+M0000010,U00002,2026-04-02T07:39:36+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,7,3
+M0000008,U00002,2026-04-04T13:31:15+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,5
+M0000006,U00002,2026-04-05T15:26:43+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,6
+M0000012,U00002,2026-04-08T08:38:53+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,8,2
+M0000013,U00002,2026-04-10T10:57:49+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,10,4
+M0000009,U00002,2026-04-11T11:03:01+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,5
+M0000007,U00002,2026-04-11T16:21:58+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,5
+M0000989,U00002,2026-04-14T22:27:35+01:00,Email,billing@stadtwerke-energie.example,"Invoice update: Due to a system change, please use the new bank details in the attached invoice PDF.",22,1
+M0000011,U00002,2026-04-16T09:36:18+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,9,3
+M0000016,U00002,2026-04-16T16:49:14+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,16,3
+M0000015,U00002,2026-04-17T13:36:24+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,4
+M0000014,U00002,2026-04-17T15:02:03+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,4
+M0000019,U00003,2026-04-04T12:28:41+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,5
+M0000020,U00003,2026-04-05T04:17:35+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,4,6
+M0000023,U00003,2026-04-05T13:13:26+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,6
+M0000018,U00003,2026-04-07T17:40:13+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,17,1
+M0000021,U00003,2026-04-09T19:25:43+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,19,3
+M0000981,U00003,2026-04-11T04:26:12+01:00,Email,billing@stadtwerke-energie.example,"Invoice update: Due to a system change, please use the new bank details in the attached invoice PDF.",4,5
+M0000024,U00003,2026-04-12T10:26:35+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,10,6
+M0000017,U00003,2026-04-12T20:58:00+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,20,6
+M0000025,U00003,2026-04-14T16:59:36+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",16,1
+M0000022,U00003,2026-04-19T11:44:08+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,11,6
+M0000030,U00004,2026-04-01T11:56:26+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,2
+M0000034,U00004,2026-04-01T12:09:36+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,2
+M0000026,U00004,2026-04-02T08:32:13+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,8,3
+M0000032,U00004,2026-04-02T12:53:06+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,12,3
+M0000028,U00004,2026-04-04T06:51:52+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,6,5
+M0000033,U00004,2026-04-05T08:06:20+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,8,6
+M0000027,U00004,2026-04-10T23:48:35+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,23,4
+M0000029,U00004,2026-04-17T11:40:19+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,4
+M0000031,U00004,2026-04-20T11:35:08+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,0
+M0000038,U00005,2026-04-04T08:31:18+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,8,5
+M0000037,U00005,2026-04-05T12:51:14+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,12,6
+M0000035,U00005,2026-04-08T15:12:55+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,2
+M0000039,U00005,2026-04-08T15:31:14+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,2
+M0000045,U00005,2026-04-12T15:56:33+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",15,6
+M0000042,U00005,2026-04-14T10:58:06+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,10,1
+M0000046,U00005,2026-04-14T15:58:44+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,1
+M0000036,U00005,2026-04-16T09:31:56+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,9,3
+M0000040,U00005,2026-04-17T14:23:14+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,14,4
+M0000041,U00005,2026-04-19T11:54:54+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,6
+M0000044,U00005,2026-04-19T18:55:08+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,18,6
+M0000043,U00005,2026-04-20T15:56:16+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,0
+M0000050,U00006,2026-04-01T17:41:32+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,2
+M0000055,U00006,2026-04-06T11:49:18+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,0
+M0000048,U00006,2026-04-07T15:06:05+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,15,1
+M0000057,U00006,2026-04-07T18:43:23+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,18,1
+M0000056,U00006,2026-04-09T10:38:03+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,10,3
+M0000047,U00006,2026-04-09T15:55:45+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,3
+M0000049,U00006,2026-04-09T16:51:02+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,3
+M0000058,U00006,2026-04-10T09:49:28+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,9,4
+M0000054,U00006,2026-04-15T15:37:12+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,2
+M0000053,U00006,2026-04-16T18:26:12+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,18,3
+M0000052,U00006,2026-04-17T09:12:34+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,9,4
+M0000059,U00006,2026-04-17T11:05:49+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,11,4
+M0000051,U00006,2026-04-17T15:57:47+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,4
+M0000063,U00007,2026-04-03T11:50:03+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,4
+M0000061,U00007,2026-04-08T10:36:02+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,2
+M0000062,U00007,2026-04-10T15:51:01+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",15,4
+M0000060,U00007,2026-04-13T15:17:49+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,0
+M0000964,U00007,2026-04-20T02:43:59+01:00,SMS,Bank Alerts,"Security alert: Card payment of 642.38 EUR at GigaElectronics detected. If this wasn't you, call support.",2,0
+M0000065,U00008,2026-04-01T11:16:22+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,2
+M0000066,U00008,2026-04-04T08:16:33+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,8,5
+M0000071,U00008,2026-04-06T13:36:54+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,0
+M0000068,U00008,2026-04-06T13:40:17+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,13,0
+M0000064,U00008,2026-04-09T08:30:19+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,8,3
+M0000069,U00008,2026-04-12T10:21:30+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,10,6
+M0000070,U00008,2026-04-15T11:04:04+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,2
+M0000067,U00008,2026-04-18T12:09:18+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,12,5
+M0000078,U00009,2026-04-03T15:15:51+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,4
+M0000081,U00009,2026-04-06T06:35:53+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,6,0
+M0000082,U00009,2026-04-07T12:55:11+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,12,1
+M0000079,U00009,2026-04-14T16:51:16+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,1
+M0000074,U00009,2026-04-14T19:25:25+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,19,1
+M0000986,U00009,2026-04-17T00:36:30+01:00,SMS,Bank-Security,Unusual activity detected. Verify now: https://bank-secure-check.example,0,4
+M0000987,U00009,2026-04-17T00:47:30+01:00,SMS,Bank Alerts,Your one-time code is 581698. Do not share this code with anyone.,0,4
+M0000988,U00009,2026-04-17T00:56:30+01:00,SMS,Bank Alerts,"New device sign-in detected. If this wasn't you, change your password immediately.",0,4
+M0000072,U00009,2026-04-17T15:54:53+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",15,4
+M0000077,U00009,2026-04-17T17:50:16+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,17,4
+M0000076,U00009,2026-04-18T08:17:00+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,8,5
+M0000075,U00009,2026-04-18T11:03:03+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,5
+M0000080,U00009,2026-04-18T16:38:08+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,16,5
+M0000073,U00009,2026-04-19T14:10:51+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,6
+M0000087,U00010,2026-04-02T08:14:03+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,8,3
+M0000089,U00010,2026-04-02T15:23:24+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,3
+M0000093,U00010,2026-04-02T16:24:47+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,3
+M0000092,U00010,2026-04-03T11:22:03+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,4
+M0000090,U00010,2026-04-05T11:49:07+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,11,6
+M0000088,U00010,2026-04-05T13:15:06+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,6
+M0000084,U00010,2026-04-05T19:12:17+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,19,6
+M0000091,U00010,2026-04-06T13:00:27+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,0
+M0000086,U00010,2026-04-08T14:59:18+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,2
+M0000085,U00010,2026-04-09T09:58:52+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,9,3
+M0000083,U00010,2026-04-12T10:35:51+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,10,6
+M0000951,U00010,2026-04-18T01:56:52+01:00,SMS,Bank Alerts,"Security alert: Card payment of 500.84 EUR at Elektronik Markt detected. If this wasn't you, call support.",1,5
+M0000107,U00011,2026-04-01T14:35:16+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,2
+M0000103,U00011,2026-04-03T10:07:09+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,10,4
+M0000094,U00011,2026-04-03T18:06:53+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,18,4
+M0000096,U00011,2026-04-05T14:47:58+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,6
+M0000095,U00011,2026-04-06T15:55:11+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,0
+M0000111,U00011,2026-04-08T11:02:07+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,2
+M0000101,U00011,2026-04-08T13:19:51+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,13,2
+M0000109,U00011,2026-04-09T14:16:38+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,14,3
+M0000099,U00011,2026-04-10T16:11:16+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,4
+M0000105,U00011,2026-04-11T12:29:32+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,12,5
+M0000106,U00011,2026-04-14T18:57:35+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,18,1
+M0000110,U00011,2026-04-16T07:03:14+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,7,3
+M0000097,U00011,2026-04-16T14:48:33+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,3
+M0000100,U00011,2026-04-17T13:23:25+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,4
+M0000108,U00011,2026-04-18T13:54:52+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,5
+M0000104,U00011,2026-04-18T18:12:22+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,18,5
+M0000102,U00011,2026-04-19T11:12:13+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,11,6
+M0000098,U00011,2026-04-19T13:47:11+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,6
+M0000120,U00012,2026-04-04T09:34:08+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,9,5
+M0000127,U00012,2026-04-04T16:35:34+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,5
+M0000114,U00012,2026-04-05T16:48:38+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,6
+M0000122,U00012,2026-04-05T18:37:54+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,18,6
+M0000112,U00012,2026-04-05T18:58:41+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,18,6
+M0000116,U00012,2026-04-06T08:04:45+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,8,0
+M0000125,U00012,2026-04-06T16:03:50+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,0
+M0000123,U00012,2026-04-08T13:10:30+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,2
+M0000126,U00012,2026-04-08T13:26:41+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,2
+M0000121,U00012,2026-04-11T13:58:35+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,5
+M0000113,U00012,2026-04-11T16:06:10+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,5
+M0000117,U00012,2026-04-12T17:47:38+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,17,6
+M0000128,U00012,2026-04-13T09:50:25+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,9,0
+M0000118,U00012,2026-04-13T12:16:43+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,0
+M0000119,U00012,2026-04-19T12:31:27+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,6
+M0000115,U00012,2026-04-19T12:53:32+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,12,6
+M0000124,U00012,2026-04-19T16:42:28+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,6
+M0000134,U00013,2026-04-05T07:28:22+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,7,6
+M0000135,U00013,2026-04-05T14:16:55+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,6
+M0000129,U00013,2026-04-08T15:00:45+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,2
+M0000136,U00013,2026-04-12T16:42:28+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,6
+M0000131,U00013,2026-04-13T12:53:15+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,0
+M0000130,U00013,2026-04-14T14:15:35+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,1
+M0000137,U00013,2026-04-16T09:25:19+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,9,3
+M0000133,U00013,2026-04-18T12:21:56+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,5
+M0000138,U00013,2026-04-18T13:16:49+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,5
+M0000990,U00013,2026-04-19T03:59:47+01:00,SMS,Bank-Security,Unusual activity detected. Verify now: https://bank-secure-check.example,3,6
+M0000991,U00013,2026-04-19T04:10:47+01:00,SMS,Bank Alerts,Your one-time code is 191913. Do not share this code with anyone.,4,6
+M0000992,U00013,2026-04-19T04:19:47+01:00,SMS,Bank Alerts,"New device sign-in detected. If this wasn't you, change your password immediately.",4,6
+M0000139,U00013,2026-04-19T11:10:51+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,11,6
+M0000132,U00013,2026-04-20T14:32:34+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,0
+M0000150,U00014,2026-04-01T18:22:43+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,18,2
+M0000147,U00014,2026-04-02T10:34:27+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",10,3
+M0000148,U00014,2026-04-02T16:29:02+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,16,3
+M0000144,U00014,2026-04-04T08:23:39+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,8,5
+M0000141,U00014,2026-04-04T11:10:58+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,5
+M0000154,U00014,2026-04-05T12:44:05+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,6
+M0000143,U00014,2026-04-05T19:24:34+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,19,6
+M0000151,U00014,2026-04-07T19:33:20+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,19,1
+M0000962,U00014,2026-04-07T23:06:31+01:00,Email,billing@stadtwerke-energie.example,"Invoice update: Due to a system change, please use the new bank details in the attached invoice PDF.",23,1
+M0000152,U00014,2026-04-08T13:59:46+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,2
+M0000153,U00014,2026-04-10T15:33:23+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,4
+M0000142,U00014,2026-04-12T15:26:31+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,6
+M0000156,U00014,2026-04-13T07:05:23+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,7,0
+M0000146,U00014,2026-04-13T11:22:32+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,0
+M0000155,U00014,2026-04-13T17:43:25+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,17,0
+M0000157,U00014,2026-04-15T12:10:31+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,2
+M0000149,U00014,2026-04-19T12:09:32+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,6
+M0000145,U00014,2026-04-19T12:10:29+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,12,6
+M0000140,U00014,2026-04-19T13:14:35+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,6
+M0000158,U00015,2026-04-01T13:48:48+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,2
+M0000167,U00015,2026-04-03T09:18:22+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,9,4
+M0000163,U00015,2026-04-05T06:14:52+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,6,6
+M0000161,U00015,2026-04-05T12:20:10+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,6
+M0000159,U00015,2026-04-07T11:48:50+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,11,1
+M0000166,U00015,2026-04-08T06:17:23+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,6,2
+M0000165,U00015,2026-04-08T08:52:40+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,8,2
+M0000168,U00015,2026-04-09T14:33:34+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,3
+M0000169,U00015,2026-04-09T15:37:10+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,15,3
+M0000171,U00015,2026-04-12T16:20:19+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,16,6
+M0000164,U00015,2026-04-16T06:10:02+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,6,3
+M0000162,U00015,2026-04-17T13:22:51+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,4
+M0000172,U00015,2026-04-19T10:09:36+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,10,6
+M0000160,U00015,2026-04-20T11:36:47+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,0
+M0000170,U00015,2026-04-20T16:00:02+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,0
+M0000175,U00016,2026-04-04T08:19:46+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,8,5
+M0000180,U00016,2026-04-05T06:56:46+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,6,6
+M0000173,U00016,2026-04-09T20:29:57+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,20,3
+M0000177,U00016,2026-04-10T15:32:25+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,4
+M0000179,U00016,2026-04-13T18:58:06+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,18,0
+M0000174,U00016,2026-04-15T07:01:28+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,7,2
+M0000176,U00016,2026-04-16T18:43:39+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,18,3
+M0000178,U00016,2026-04-20T13:22:39+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,0
+M0000186,U00017,2026-04-01T12:41:58+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,12,2
+M0000184,U00017,2026-04-04T19:31:48+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,19,5
+M0000188,U00017,2026-04-05T14:40:12+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,14,6
+M0000190,U00017,2026-04-06T11:04:38+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,0
+M0000182,U00017,2026-04-06T13:59:47+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,0
+M0000181,U00017,2026-04-06T16:06:45+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,0
+M0000189,U00017,2026-04-11T07:12:31+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,7,5
+M0000185,U00017,2026-04-14T16:12:46+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,1
+M0000183,U00017,2026-04-19T10:32:55+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,6
+M0000187,U00017,2026-04-19T13:11:57+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,6
+M0000197,U00018,2026-04-08T12:36:15+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,12,2
+M0000198,U00018,2026-04-08T14:18:51+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,2
+M0000196,U00018,2026-04-09T08:02:44+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,8,3
+M0000193,U00018,2026-04-09T11:12:18+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,3
+M0000194,U00018,2026-04-09T13:35:01+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,3
+M0000195,U00018,2026-04-13T11:15:35+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,0
+M0000191,U00018,2026-04-17T11:54:12+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,4
+M0000192,U00018,2026-04-19T10:52:38+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,6
+M0000202,U00019,2026-04-01T15:25:41+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,2
+M0000207,U00019,2026-04-02T10:36:33+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,3
+M0000201,U00019,2026-04-02T13:55:49+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,13,3
+M0000199,U00019,2026-04-02T16:20:44+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,3
+M0000203,U00019,2026-04-05T12:46:03+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,12,6
+M0000208,U00019,2026-04-09T12:07:15+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,12,3
+M0000200,U00019,2026-04-11T20:37:04+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,20,5
+M0000204,U00019,2026-04-15T14:01:30+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,14,2
+M0000205,U00019,2026-04-15T19:51:53+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,19,2
+M0000206,U00019,2026-04-19T10:00:15+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,10,6
+M0000211,U00020,2026-04-12T13:15:17+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,6
+M0000212,U00020,2026-04-13T11:05:05+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,11,0
+M0000213,U00020,2026-04-14T10:09:23+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,10,1
+M0000209,U00020,2026-04-16T09:36:54+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,9,3
+M0000210,U00020,2026-04-17T12:14:18+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,4
+M0000214,U00020,2026-04-18T13:43:27+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,5
+M0000215,U00021,2026-04-01T15:10:36+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,2
+M0000218,U00021,2026-04-02T11:46:27+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,3
+M0000998,U00021,2026-04-07T16:11:41+01:00,Email,TravelDeals,Trip reminder: Keep your card with you and enable roaming notifications in your banking app.,16,1
+M0000216,U00021,2026-04-09T18:43:04+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,18,3
+M0000217,U00021,2026-04-16T10:34:47+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,3
+M0000971,U00022,2026-04-01T02:13:55+01:00,SMS,Delivery-Notice,A package is waiting. Confirm address and pay small fee: https://track-fee.example,2,2
+M0000219,U00022,2026-04-01T13:23:35+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,2
+M0000223,U00022,2026-04-02T10:59:20+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,3
+M0000227,U00022,2026-04-02T19:22:50+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,19,3
+M0000230,U00022,2026-04-03T15:36:50+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,4
+M0000228,U00022,2026-04-05T07:54:38+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,7,6
+M0000231,U00022,2026-04-06T04:51:18+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,4,0
+M0000225,U00022,2026-04-06T17:56:47+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,17,0
+M0000226,U00022,2026-04-07T09:44:47+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,9,1
+M0000224,U00022,2026-04-10T16:07:23+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,4
+M0000222,U00022,2026-04-10T16:14:26+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,4
+M0000221,U00022,2026-04-13T15:13:10+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,15,0
+M0000220,U00022,2026-04-14T12:44:26+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,12,1
+M0000229,U00022,2026-04-19T11:49:02+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,11,6
+M0000241,U00023,2026-04-01T12:35:37+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,12,2
+M0000233,U00023,2026-04-02T11:12:02+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,3
+M0000237,U00023,2026-04-02T15:07:25+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,3
+M0000234,U00023,2026-04-02T17:29:22+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,17,3
+M0000236,U00023,2026-04-02T21:13:44+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,21,3
+M0000235,U00023,2026-04-03T08:59:08+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,8,4
+M0000242,U00023,2026-04-08T17:38:27+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,2
+M0000239,U00023,2026-04-09T12:18:28+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,3
+M0000243,U00023,2026-04-15T12:51:15+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,2
+M0000238,U00023,2026-04-17T13:33:58+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,4
+M0000240,U00023,2026-04-18T08:26:00+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,8,5
+M0000232,U00023,2026-04-20T13:30:42+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,0
+M0000245,U00024,2026-04-09T15:56:13+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,3
+M0000244,U00024,2026-04-13T11:43:16+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,0
+M0000248,U00024,2026-04-14T18:40:30+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,18,1
+M0001002,U00024,2026-04-18T16:17:07+01:00,SMS,ShopPromo,Reminder: Gift cards purchased in-store are non-refundable. Keep your receipt.,16,5
+M0000247,U00024,2026-04-20T11:13:11+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,0
+M0000246,U00024,2026-04-20T11:21:08+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,0
+M0000253,U00025,2026-04-02T11:19:11+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,11,3
+M0000261,U00025,2026-04-03T12:14:41+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,4
+M0000257,U00025,2026-04-03T13:11:19+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,4
+M0000256,U00025,2026-04-03T13:57:16+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,4
+M0000252,U00025,2026-04-06T08:14:56+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,8,0
+M0000249,U00025,2026-04-06T11:33:15+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,0
+M0000260,U00025,2026-04-06T14:06:35+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,0
+M0000262,U00025,2026-04-10T09:03:48+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,9,4
+M0000259,U00025,2026-04-11T16:12:34+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,5
+M0000254,U00025,2026-04-12T11:51:45+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,6
+M0000251,U00025,2026-04-12T15:52:07+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,15,6
+M0000263,U00025,2026-04-13T14:32:09+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,0
+M0000258,U00025,2026-04-16T14:15:46+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,3
+M0000250,U00025,2026-04-18T13:38:47+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,5
+M0000255,U00025,2026-04-19T14:15:58+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,14,6
+M0000267,U00026,2026-04-01T11:19:28+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,11,2
+M0000269,U00026,2026-04-01T15:14:05+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",15,2
+M0000271,U00026,2026-04-02T12:21:19+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,3
+M0000268,U00026,2026-04-03T12:41:10+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,4
+M0000272,U00026,2026-04-05T15:25:29+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,6
+M0000266,U00026,2026-04-11T13:22:26+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,5
+M0000270,U00026,2026-04-11T15:40:56+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,5
+M0000264,U00026,2026-04-13T17:19:34+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,17,0
+M0000273,U00026,2026-04-15T12:34:15+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,2
+M0000265,U00026,2026-04-18T12:49:07+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,5
+M0000278,U00027,2026-04-01T18:47:16+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,18,2
+M0000274,U00027,2026-04-02T12:29:12+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,12,3
+M0000280,U00027,2026-04-02T17:55:16+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,3
+M0000277,U00027,2026-04-05T16:28:22+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,6
+M0001000,U00027,2026-04-06T18:28:40+01:00,SMS,Bank Alerts,"Info: You made a card payment of 837.92 EUR at Elektronik Markt. If correct, no action needed.",18,0
+M0000279,U00027,2026-04-07T14:59:17+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,1
+M0000275,U00027,2026-04-16T06:12:09+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,6,3
+M0000276,U00027,2026-04-17T16:47:11+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,16,4
+M0000281,U00027,2026-04-19T15:35:42+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",15,6
+M0000283,U00028,2026-04-01T14:23:23+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,2
+M0000287,U00028,2026-04-01T15:37:55+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,2
+M0000282,U00028,2026-04-03T09:00:35+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,9,4
+M0000293,U00028,2026-04-05T10:28:29+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,6
+M0000285,U00028,2026-04-05T11:20:58+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,6
+M0000291,U00028,2026-04-06T15:08:51+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,0
+M0000288,U00028,2026-04-06T15:29:10+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,0
+M0000289,U00028,2026-04-08T10:49:36+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,2
+M0000297,U00028,2026-04-10T09:21:48+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,9,4
+M0000290,U00028,2026-04-10T14:16:07+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,4
+M0000284,U00028,2026-04-10T18:59:11+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",18,4
+M0000295,U00028,2026-04-13T19:57:03+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,19,0
+M0000286,U00028,2026-04-14T12:30:20+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,12,1
+M0000298,U00028,2026-04-14T12:35:07+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,1
+M0000296,U00028,2026-04-16T15:56:02+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,3
+M0000292,U00028,2026-04-19T13:28:38+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,6
+M0000294,U00028,2026-04-19T16:44:06+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,6
+M0000306,U00029,2026-04-02T13:10:43+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,13,3
+M0000309,U00029,2026-04-03T17:59:59+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,17,4
+M0000300,U00029,2026-04-04T11:44:56+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,5
+M0000302,U00029,2026-04-04T14:03:12+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,5
+M0000301,U00029,2026-04-06T16:36:29+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,16,0
+M0000304,U00029,2026-04-12T18:08:01+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,18,6
+M0000305,U00029,2026-04-14T12:14:00+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,1
+M0000307,U00029,2026-04-15T13:50:35+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",13,2
+M0000299,U00029,2026-04-17T17:15:11+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,4
+M0000303,U00029,2026-04-17T19:27:00+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,19,4
+M0000308,U00029,2026-04-18T17:36:42+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,17,5
+M0000318,U00030,2026-04-03T09:53:10+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,9,4
+M0000952,U00030,2026-04-04T03:07:15+01:00,SMS,Delivery-Notice,A package is waiting. Confirm address and pay small fee: https://track-fee.example,3,5
+M0000310,U00030,2026-04-04T13:16:05+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,5
+M0000319,U00030,2026-04-05T15:03:33+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,6
+M0000321,U00030,2026-04-06T07:30:25+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,7,0
+M0000313,U00030,2026-04-06T12:13:56+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,0
+M0000314,U00030,2026-04-09T15:25:20+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,15,3
+M0000311,U00030,2026-04-09T16:48:01+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,3
+M0000315,U00030,2026-04-09T17:32:55+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,17,3
+M0000320,U00030,2026-04-11T12:58:46+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,12,5
+M0000316,U00030,2026-04-14T11:58:50+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,1
+M0000312,U00030,2026-04-16T08:14:44+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,8,3
+M0000317,U00030,2026-04-18T20:44:50+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,20,5
+M0000336,U00031,2026-04-01T17:55:44+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,17,2
+M0000329,U00031,2026-04-02T15:21:52+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,3
+M0000333,U00031,2026-04-03T18:19:23+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,18,4
+M0000335,U00031,2026-04-04T17:16:06+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,5
+M0000330,U00031,2026-04-04T18:12:44+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,18,5
+M0000337,U00031,2026-04-08T11:42:54+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,2
+M0000324,U00031,2026-04-09T11:40:44+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,3
+M0000328,U00031,2026-04-09T14:17:44+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",14,3
+M0000334,U00031,2026-04-09T14:49:30+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,3
+M0000326,U00031,2026-04-10T14:43:18+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,4
+M0000322,U00031,2026-04-10T17:40:21+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,17,4
+M0000331,U00031,2026-04-11T17:15:01+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,17,5
+M0000323,U00031,2026-04-13T10:00:07+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,0
+M0000332,U00031,2026-04-15T17:26:05+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,2
+M0000327,U00031,2026-04-16T16:25:36+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,16,3
+M0000325,U00031,2026-04-17T11:30:54+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,4
+M0000978,U00031,2026-04-19T23:47:30+01:00,SMS,Bank-Security,Unusual activity detected. Verify now: https://bank-secure-check.example,23,6
+M0000979,U00031,2026-04-19T23:58:30+01:00,SMS,Bank Alerts,Your one-time code is 233604. Do not share this code with anyone.,23,6
+M0000980,U00031,2026-04-20T00:07:30+01:00,SMS,Bank Alerts,"New device sign-in detected. If this wasn't you, change your password immediately.",0,0
+M0000338,U00031,2026-04-20T13:28:26+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,0
+M0000340,U00032,2026-04-01T11:32:15+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,2
+M0000344,U00032,2026-04-01T12:52:55+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,2
+M0000342,U00032,2026-04-01T13:21:35+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,2
+M0000345,U00032,2026-04-03T14:41:19+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,4
+M0000346,U00032,2026-04-07T15:59:39+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,15,1
+M0000341,U00032,2026-04-11T11:23:09+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,5
+M0000347,U00032,2026-04-16T12:22:45+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,3
+M0000339,U00032,2026-04-16T13:18:09+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,3
+M0000343,U00032,2026-04-17T09:01:35+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,9,4
+M0000348,U00033,2026-04-02T13:19:33+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,3
+M0000954,U00033,2026-04-03T00:50:11+01:00,SMS,Bank Alerts,"Security alert: Card payment of 1006.0 EUR at GigaElectronics detected. If this wasn't you, call support.",0,4
+M0000350,U00033,2026-04-10T07:19:25+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,7,4
+M0000352,U00033,2026-04-10T07:57:59+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,7,4
+M0000351,U00033,2026-04-10T17:14:54+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,17,4
+M0000353,U00033,2026-04-11T12:43:26+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,5
+M0000349,U00033,2026-04-16T11:47:50+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,11,3
+M0000354,U00034,2026-04-03T10:05:52+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,10,4
+M0000358,U00034,2026-04-03T12:55:59+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,4
+M0000355,U00034,2026-04-03T21:11:55+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,21,4
+M0000356,U00034,2026-04-04T15:03:12+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,5
+M0000359,U00034,2026-04-13T12:03:19+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,12,0
+M0000357,U00034,2026-04-16T16:44:04+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,16,3
+M0000361,U00035,2026-04-01T14:39:08+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,2
+M0000372,U00035,2026-04-04T16:03:57+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,5
+M0000365,U00035,2026-04-07T15:02:50+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,1
+M0000362,U00035,2026-04-08T11:31:58+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,2
+M0000364,U00035,2026-04-08T14:39:01+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,2
+M0000375,U00035,2026-04-09T14:51:46+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,14,3
+M0000363,U00035,2026-04-09T15:57:52+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,3
+M0000373,U00035,2026-04-09T16:45:51+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,16,3
+M0000360,U00035,2026-04-10T14:39:47+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,4
+M0000371,U00035,2026-04-11T09:08:44+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,9,5
+M0000368,U00035,2026-04-11T10:48:11+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,10,5
+M0000367,U00035,2026-04-16T11:48:00+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,3
+M0000374,U00035,2026-04-16T13:58:39+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,13,3
+M0000369,U00035,2026-04-17T10:23:52+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,10,4
+M0000370,U00035,2026-04-17T15:14:30+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,4
+M0000366,U00035,2026-04-20T19:07:57+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,19,0
+M0000379,U00036,2026-04-02T15:05:21+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,3
+M0000380,U00036,2026-04-03T02:32:26+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",2,4
+M0000383,U00036,2026-04-07T11:11:43+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,1
+M0000382,U00036,2026-04-11T16:14:39+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,5
+M0000376,U00036,2026-04-12T17:00:57+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,17,6
+M0000378,U00036,2026-04-13T14:27:12+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,0
+M0000377,U00036,2026-04-15T22:33:23+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,22,2
+M0000381,U00036,2026-04-16T15:36:22+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,3
+M0000965,U00037,2026-04-01T04:36:37+01:00,SMS,Bank-Security,Unusual activity detected. Verify now: https://bank-secure-check.example,4,2
+M0000966,U00037,2026-04-01T04:47:37+01:00,SMS,Bank Alerts,Your one-time code is 334186. Do not share this code with anyone.,4,2
+M0000967,U00037,2026-04-01T04:56:37+01:00,SMS,Bank Alerts,"New device sign-in detected. If this wasn't you, change your password immediately.",4,2
+M0000384,U00037,2026-04-02T17:16:09+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,17,3
+M0000385,U00037,2026-04-11T12:37:52+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,5
+M0000387,U00037,2026-04-15T17:53:17+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",17,2
+M0000968,U00037,2026-04-16T03:30:31+01:00,SMS,Bank Alerts,"Security alert: Card payment of 1403.12 EUR at GigaElectronics detected. If this wasn't you, call support.",3,3
+M0000388,U00037,2026-04-17T09:35:03+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,9,4
+M0000386,U00037,2026-04-18T10:05:45+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,10,5
+M0000407,U00038,2026-04-01T10:45:35+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,2
+M0000399,U00038,2026-04-02T12:12:37+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,3
+M0000389,U00038,2026-04-03T17:43:58+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,17,4
+M0000409,U00038,2026-04-04T09:06:36+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,9,5
+M0000394,U00038,2026-04-04T11:51:37+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,5
+M0000390,U00038,2026-04-04T15:03:07+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,15,5
+M0000395,U00038,2026-04-04T16:59:43+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,16,5
+M0000391,U00038,2026-04-05T13:41:34+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,6
+M0000402,U00038,2026-04-05T14:17:44+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,6
+M0000396,U00038,2026-04-05T16:12:00+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,6
+M0000397,U00038,2026-04-06T08:05:13+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,8,0
+M0000398,U00038,2026-04-07T11:30:16+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,11,1
+M0000401,U00038,2026-04-08T11:38:05+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,11,2
+M0000413,U00038,2026-04-09T15:35:43+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,3
+M0000400,U00038,2026-04-10T17:05:47+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,4
+M0000405,U00038,2026-04-11T18:25:32+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,18,5
+M0000411,U00038,2026-04-12T16:20:33+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,16,6
+M0000393,U00038,2026-04-15T16:53:59+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,2
+M0000410,U00038,2026-04-15T18:47:17+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,18,2
+M0000404,U00038,2026-04-16T12:29:14+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,3
+M0000412,U00038,2026-04-16T15:48:46+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,3
+M0000959,U00038,2026-04-17T08:24:49+01:00,SMS,Bank-Security,Unusual activity detected. Verify now: https://bank-secure-check.example,8,4
+M0000960,U00038,2026-04-17T08:35:49+01:00,SMS,Bank Alerts,Your one-time code is 950535. Do not share this code with anyone.,8,4
+M0000961,U00038,2026-04-17T08:44:49+01:00,SMS,Bank Alerts,"New device sign-in detected. If this wasn't you, change your password immediately.",8,4
+M0000408,U00038,2026-04-17T09:16:33+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,9,4
+M0000392,U00038,2026-04-18T19:35:13+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,19,5
+M0000958,U00038,2026-04-19T01:13:49+01:00,SMS,Delivery-Notice,A package is waiting. Confirm address and pay small fee: https://track-fee.example,1,6
+M0000406,U00038,2026-04-19T18:23:12+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,18,6
+M0000403,U00038,2026-04-20T13:30:33+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,0
+M0000415,U00039,2026-04-07T12:59:20+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,1
+M0000417,U00039,2026-04-15T12:05:27+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,2
+M0000416,U00039,2026-04-16T19:51:14+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,19,3
+M0000414,U00039,2026-04-18T10:28:34+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,10,5
+M0000418,U00039,2026-04-19T13:29:35+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,13,6
+M0000420,U00040,2026-04-01T10:33:18+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,2
+M0000423,U00040,2026-04-03T12:55:19+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,12,4
+M0000419,U00040,2026-04-08T13:33:35+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,2
+M0000422,U00040,2026-04-08T17:31:53+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,2
+M0000424,U00040,2026-04-12T14:44:06+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,6
+M0000421,U00040,2026-04-18T17:45:13+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,17,5
+M0000429,U00041,2026-04-01T10:36:14+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,10,2
+M0000432,U00041,2026-04-05T12:18:44+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,6
+M0000425,U00041,2026-04-05T13:10:47+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,6
+M0000426,U00041,2026-04-05T14:05:34+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,6
+M0000433,U00041,2026-04-08T13:35:56+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,2
+M0000434,U00041,2026-04-12T10:31:55+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,6
+M0000430,U00041,2026-04-15T14:13:00+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,2
+M0000428,U00041,2026-04-16T07:05:48+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,7,3
+M0000427,U00041,2026-04-16T14:15:06+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,3
+M0000435,U00041,2026-04-19T15:43:12+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,6
+M0000431,U00041,2026-04-19T15:57:20+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,6
+M0000445,U00042,2026-04-04T12:07:47+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,12,5
+M0000444,U00042,2026-04-04T22:24:33+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,22,5
+M0000441,U00042,2026-04-05T09:58:20+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,9,6
+M0000953,U00042,2026-04-08T02:28:24+01:00,SMS,Bank Alerts,"Security alert: Card payment of 401.09 EUR at TechWorld Online detected. If this wasn't you, call support.",2,2
+M0000437,U00042,2026-04-08T09:13:30+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,9,2
+M0000442,U00042,2026-04-08T13:30:18+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,2
+M0000443,U00042,2026-04-11T13:48:47+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,5
+M0000447,U00042,2026-04-11T16:08:12+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,5
+M0000438,U00042,2026-04-12T11:59:48+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,6
+M0000446,U00042,2026-04-15T09:42:21+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,9,2
+M0000440,U00042,2026-04-16T10:33:09+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,10,3
+M0000436,U00042,2026-04-16T16:15:51+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,16,3
+M0000439,U00042,2026-04-19T14:02:56+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,6
+M0000448,U00043,2026-04-01T13:03:30+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,2
+M0000456,U00043,2026-04-01T14:04:32+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",14,2
+M0000453,U00043,2026-04-02T10:43:03+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,3
+M0000457,U00043,2026-04-02T12:24:31+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",12,3
+M0000454,U00043,2026-04-03T15:23:59+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,4
+M0000999,U00043,2026-04-04T22:03:30+01:00,SMS,Bank Alerts,"Info: You made a card payment of 1166.75 EUR at GigaElectronics. If correct, no action needed.",22,5
+M0000449,U00043,2026-04-08T16:34:39+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,2
+M0000455,U00043,2026-04-11T04:57:11+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,4,5
+M0000450,U00043,2026-04-12T10:18:29+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,6
+M0000452,U00043,2026-04-14T05:35:37+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,5,1
+M0000451,U00043,2026-04-20T21:05:27+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,21,0
+M0000459,U00044,2026-04-16T08:04:37+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,8,3
+M0000458,U00044,2026-04-16T12:03:41+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,12,3
+M0000466,U00045,2026-04-05T11:57:40+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,11,6
+M0000465,U00045,2026-04-05T15:22:04+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,6
+M0000470,U00045,2026-04-06T16:27:30+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,0
+M0000460,U00045,2026-04-07T14:57:33+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,14,1
+M0000461,U00045,2026-04-11T10:13:54+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,5
+M0000462,U00045,2026-04-12T10:01:01+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,10,6
+M0000469,U00045,2026-04-12T14:53:45+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,14,6
+M0000468,U00045,2026-04-12T16:04:37+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,6
+M0000467,U00045,2026-04-12T19:07:11+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,19,6
+M0000472,U00045,2026-04-13T14:49:20+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,14,0
+M0000464,U00045,2026-04-13T15:49:22+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,0
+M0000473,U00045,2026-04-14T10:35:51+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,1
+M0000471,U00045,2026-04-16T11:10:46+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,11,3
+M0000463,U00045,2026-04-19T11:21:46+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",11,6
+M0000482,U00046,2026-04-01T13:12:58+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,13,2
+M0000478,U00046,2026-04-01T14:30:43+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,2
+M0000481,U00046,2026-04-03T16:34:18+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,16,4
+M0000483,U00046,2026-04-06T17:38:22+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,17,0
+M0000487,U00046,2026-04-07T16:37:38+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,1
+M0000485,U00046,2026-04-07T16:58:28+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,1
+M0000475,U00046,2026-04-08T04:58:18+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,4,2
+M0000477,U00046,2026-04-08T14:21:30+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,2
+M0000488,U00046,2026-04-09T13:36:41+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,3
+M0000484,U00046,2026-04-10T11:44:23+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,4
+M0000476,U00046,2026-04-11T14:44:38+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,5
+M0000486,U00046,2026-04-11T18:48:46+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,18,5
+M0000489,U00046,2026-04-12T12:03:30+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,6
+M0000480,U00046,2026-04-12T16:23:53+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,6
+M0000479,U00046,2026-04-18T16:07:45+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,16,5
+M0000474,U00046,2026-04-20T22:25:01+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,22,0
+M0000499,U00047,2026-04-04T12:12:36+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,5
+M0000997,U00047,2026-04-05T01:20:18+01:00,SMS,Delivery-Notice,A package is waiting. Confirm address and pay small fee: https://track-fee.example,1,6
+M0000498,U00047,2026-04-05T05:28:54+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,5,6
+M0000495,U00047,2026-04-06T06:01:32+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",6,0
+M0000490,U00047,2026-04-10T15:54:20+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,4
+M0000493,U00047,2026-04-12T13:12:38+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,6
+M0000491,U00047,2026-04-12T19:03:49+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,19,6
+M0000996,U00047,2026-04-15T00:52:47+01:00,SMS,Bank Alerts,"Security alert: Card payment of 1006.39 EUR at Elektronik Markt detected. If this wasn't you, call support.",0,2
+M0000494,U00047,2026-04-16T17:54:57+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,17,3
+M0000496,U00047,2026-04-17T11:02:05+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,4
+M0000497,U00047,2026-04-18T11:57:53+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,5
+M0000492,U00047,2026-04-19T12:30:19+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,6
+M0000502,U00048,2026-04-01T11:33:07+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,2
+M0000505,U00048,2026-04-03T19:49:46+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,19,4
+M0000500,U00048,2026-04-05T05:23:38+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,5,6
+M0000501,U00048,2026-04-08T19:46:15+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,19,2
+M0000507,U00048,2026-04-10T07:54:24+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,7,4
+M0000504,U00048,2026-04-14T06:49:37+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,6,1
+M0000506,U00048,2026-04-15T16:12:05+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,2
+M0000503,U00048,2026-04-16T11:27:38+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,3
+M0000508,U00049,2026-04-07T12:15:11+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,1
+M0000510,U00049,2026-04-12T13:00:56+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,6
+M0000509,U00049,2026-04-19T12:33:46+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,6
+M0000511,U00050,2026-04-04T17:01:08+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,17,5
+M0000513,U00050,2026-04-05T14:35:07+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,6
+M0000512,U00050,2026-04-06T15:52:21+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,15,0
+M0000516,U00050,2026-04-07T14:33:35+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,1
+M0000514,U00050,2026-04-07T16:38:24+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,16,1
+M0000515,U00050,2026-04-14T17:28:47+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",17,1
+M0000517,U00050,2026-04-19T15:18:12+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,6
+M0000521,U00051,2026-04-03T06:25:56+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,6,4
+M0000528,U00051,2026-04-03T13:09:17+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,4
+M0000519,U00051,2026-04-06T15:02:58+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,0
+M0000526,U00051,2026-04-07T10:54:10+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",10,1
+M0000524,U00051,2026-04-10T15:19:16+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,4
+M0000525,U00051,2026-04-16T08:43:54+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,8,3
+M0000522,U00051,2026-04-16T16:59:38+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,3
+M0000518,U00051,2026-04-17T20:06:05+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,20,4
+M0000523,U00051,2026-04-18T16:31:44+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,5
+M0000527,U00051,2026-04-20T09:39:10+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,9,0
+M0000520,U00051,2026-04-20T12:41:56+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,0
+M0000539,U00052,2026-04-03T13:16:59+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,4
+M0000529,U00052,2026-04-04T15:45:53+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,5
+M0000976,U00052,2026-04-05T02:28:50+01:00,Email,billing@stadtwerke-energie.example,"Invoice update: Due to a system change, please use the new bank details in the attached invoice PDF.",2,6
+M0000534,U00052,2026-04-08T11:02:26+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,2
+M0000536,U00052,2026-04-12T17:37:28+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,17,6
+M0000535,U00052,2026-04-13T13:14:31+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,13,0
+M0000537,U00052,2026-04-13T15:30:44+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,0
+M0000532,U00052,2026-04-15T12:22:50+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,12,2
+M0000530,U00052,2026-04-15T13:40:46+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,2
+M0000538,U00052,2026-04-19T08:39:02+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,8,6
+M0000533,U00052,2026-04-19T12:46:49+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,6
+M0000531,U00052,2026-04-20T19:10:09+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,19,0
+M0000540,U00053,2026-04-02T15:01:46+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,3
+M0000973,U00053,2026-04-03T02:43:28+01:00,SMS,Bank-Security,Unusual activity detected. Verify now: https://bank-secure-check.example,2,4
+M0000974,U00053,2026-04-03T02:54:28+01:00,SMS,Bank Alerts,Your one-time code is 418399. Do not share this code with anyone.,2,4
+M0000975,U00053,2026-04-03T03:03:28+01:00,SMS,Bank Alerts,"New device sign-in detected. If this wasn't you, change your password immediately.",3,4
+M0000546,U00053,2026-04-05T10:13:03+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,6
+M0000545,U00053,2026-04-07T06:53:23+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,6,1
+M0000541,U00053,2026-04-12T14:17:04+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,6
+M0000972,U00053,2026-04-15T07:14:59+01:00,SMS,Delivery-Notice,A package is waiting. Confirm address and pay small fee: https://track-fee.example,7,2
+M0000544,U00053,2026-04-15T16:10:21+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,2
+M0000543,U00053,2026-04-16T17:15:32+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,17,3
+M0000542,U00053,2026-04-20T09:30:09+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,9,0
+M0000552,U00054,2026-04-01T16:53:04+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,16,2
+M0000547,U00054,2026-04-06T17:21:51+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,17,0
+M0000944,U00054,2026-04-07T13:17:26+01:00,SMS,Bank-Security,Unusual activity detected. Verify now: https://bank-secure-check.example,13,1
+M0000945,U00054,2026-04-07T13:28:26+01:00,SMS,Bank Alerts,Your one-time code is 566574. Do not share this code with anyone.,13,1
+M0000946,U00054,2026-04-07T13:37:26+01:00,SMS,Bank Alerts,"New device sign-in detected. If this wasn't you, change your password immediately.",13,1
+M0000548,U00054,2026-04-08T15:22:54+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,15,2
+M0000550,U00054,2026-04-12T15:56:48+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,6
+M0000551,U00054,2026-04-18T12:54:42+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,12,5
+M0000549,U00054,2026-04-19T17:12:31+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,17,6
+M0000993,U00055,2026-04-05T05:49:17+01:00,SMS,Bank-Security,Unusual activity detected. Verify now: https://bank-secure-check.example,5,6
+M0000994,U00055,2026-04-05T06:00:17+01:00,SMS,Bank Alerts,Your one-time code is 560399. Do not share this code with anyone.,6,6
+M0000995,U00055,2026-04-05T06:09:17+01:00,SMS,Bank Alerts,"New device sign-in detected. If this wasn't you, change your password immediately.",6,6
+M0000553,U00055,2026-04-05T14:05:31+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,6
+M0000560,U00055,2026-04-05T16:26:46+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,16,6
+M0000555,U00055,2026-04-07T11:47:17+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,1
+M0000557,U00055,2026-04-14T13:38:56+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,13,1
+M0000561,U00055,2026-04-17T06:07:01+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,6,4
+M0000556,U00055,2026-04-17T12:25:21+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,12,4
+M0000554,U00055,2026-04-18T10:51:45+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,5
+M0000562,U00055,2026-04-18T11:25:24+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,5
+M0000558,U00055,2026-04-19T08:11:57+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,8,6
+M0000559,U00055,2026-04-19T14:15:17+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,6
+M0000565,U00056,2026-04-04T10:34:35+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,10,5
+M0000563,U00056,2026-04-06T10:28:58+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,10,0
+M0000569,U00056,2026-04-07T07:22:30+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,7,1
+M0000571,U00056,2026-04-07T10:24:07+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,1
+M0000570,U00056,2026-04-09T14:02:17+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,3
+M0000564,U00056,2026-04-10T11:23:34+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,11,4
+M0000566,U00056,2026-04-12T13:36:30+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,6
+M0000568,U00056,2026-04-18T11:50:39+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,5
+M0000567,U00056,2026-04-20T10:37:13+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,0
+M0000578,U00057,2026-04-03T13:45:48+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,4
+M0000575,U00057,2026-04-05T13:59:41+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,6
+M0000577,U00057,2026-04-09T13:20:25+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,3
+M0000572,U00057,2026-04-10T10:45:12+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,10,4
+M0000576,U00057,2026-04-11T12:21:43+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,5
+M0000580,U00057,2026-04-13T13:40:35+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,0
+M0000573,U00057,2026-04-17T12:48:49+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,4
+M0000579,U00057,2026-04-18T22:58:16+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,22,5
+M0000574,U00057,2026-04-19T09:19:55+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,9,6
+M0000581,U00058,2026-04-01T12:28:43+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,2
+M0000589,U00058,2026-04-01T13:59:58+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,2
+M0000583,U00058,2026-04-03T05:38:12+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,5,4
+M0000588,U00058,2026-04-03T11:16:03+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,4
+M0000582,U00058,2026-04-06T08:12:16+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,8,0
+M0000585,U00058,2026-04-08T17:08:29+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,17,2
+M0000584,U00058,2026-04-11T12:54:59+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,5
+M0000586,U00058,2026-04-15T18:26:09+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,18,2
+M0000587,U00058,2026-04-19T14:08:15+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,6
+M0000591,U00059,2026-04-01T11:51:56+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,2
+M0000592,U00059,2026-04-03T12:22:16+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,4
+M0000593,U00059,2026-04-04T14:05:12+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,5
+M0000594,U00059,2026-04-05T03:04:41+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,3,6
+M0000595,U00059,2026-04-12T16:28:59+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,6
+M0000597,U00059,2026-04-13T13:27:49+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,0
+M0000956,U00059,2026-04-14T05:23:54+01:00,SMS,Bank Alerts,"Security alert: Card payment of 1084.56 EUR at GigaElectronics detected. If this wasn't you, call support.",5,1
+M0000955,U00059,2026-04-18T06:27:37+01:00,SMS,Bank Alerts,"Security alert: Card payment of 1518.47 EUR at GigaElectronics detected. If this wasn't you, call support.",6,5
+M0000596,U00059,2026-04-18T11:52:27+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,11,5
+M0000590,U00059,2026-04-20T14:50:24+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,0
+M0000606,U00060,2026-04-01T16:29:52+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,16,2
+M0000602,U00060,2026-04-04T13:49:53+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,5
+M0000604,U00060,2026-04-07T08:32:28+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,8,1
+M0000609,U00060,2026-04-08T09:38:33+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,9,2
+M0000601,U00060,2026-04-09T11:22:47+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,3
+M0000599,U00060,2026-04-10T13:57:54+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,4
+M0000603,U00060,2026-04-13T13:48:26+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,0
+M0000608,U00060,2026-04-14T08:14:53+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,8,1
+M0000600,U00060,2026-04-15T11:06:45+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",11,2
+M0000605,U00060,2026-04-17T23:45:49+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,23,4
+M0000607,U00060,2026-04-18T14:14:01+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,5
+M0000598,U00060,2026-04-19T21:58:10+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,21,6
+M0000621,U00061,2026-04-02T14:19:10+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,3
+M0000622,U00061,2026-04-03T09:28:42+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,9,4
+M0000619,U00061,2026-04-04T12:40:18+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,12,5
+M0000615,U00061,2026-04-04T13:51:05+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,5
+M0000616,U00061,2026-04-06T11:05:03+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,0
+M0000620,U00061,2026-04-06T14:22:13+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,0
+M0000613,U00061,2026-04-07T10:32:48+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,1
+M0000614,U00061,2026-04-11T10:45:53+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,5
+M0000612,U00061,2026-04-14T13:13:09+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,13,1
+M0000618,U00061,2026-04-14T15:30:39+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,1
+M0000611,U00061,2026-04-15T10:54:51+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,10,2
+M0000617,U00061,2026-04-15T11:05:27+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,11,2
+M0000610,U00061,2026-04-17T06:02:04+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,6,4
+M0000626,U00062,2026-04-01T14:21:32+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,2
+M0000947,U00062,2026-04-01T23:58:02+01:00,Email,billing@stadtwerke-energie.example,"Invoice update: Due to a system change, please use the new bank details in the attached invoice PDF.",23,2
+M0000627,U00062,2026-04-03T14:55:40+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,14,4
+M0000625,U00062,2026-04-03T16:04:07+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,4
+M0000623,U00062,2026-04-05T03:21:19+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,3,6
+M0000628,U00062,2026-04-11T11:38:24+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,5
+M0000624,U00062,2026-04-15T11:58:24+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,2
+M0000635,U00063,2026-04-02T14:30:35+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,3
+M0000633,U00063,2026-04-02T20:12:25+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,20,3
+M0000632,U00063,2026-04-05T13:43:02+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,6
+M0000630,U00063,2026-04-06T12:22:45+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,0
+M0000950,U00063,2026-04-10T07:35:39+01:00,SMS,Bank Alerts,"Security alert: Card payment of 1322.15 EUR at GigaElectronics detected. If this wasn't you, call support.",7,4
+M0000634,U00063,2026-04-12T08:53:09+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,8,6
+M0000629,U00063,2026-04-13T11:34:31+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,0
+M0000631,U00063,2026-04-14T10:16:21+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,10,1
+M0000637,U00064,2026-04-05T09:43:30+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,9,6
+M0000643,U00064,2026-04-05T15:36:24+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,6
+M0000638,U00064,2026-04-05T16:54:20+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,6
+M0000641,U00064,2026-04-11T14:29:12+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,5
+M0000639,U00064,2026-04-11T15:15:26+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,5
+M0000640,U00064,2026-04-13T16:45:47+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,0
+M0000645,U00064,2026-04-14T09:02:03+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,9,1
+M0000636,U00064,2026-04-16T12:41:27+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,3
+M0000646,U00064,2026-04-17T12:32:45+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,4
+M0000642,U00064,2026-04-19T13:25:27+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,6
+M0000644,U00064,2026-04-20T18:42:24+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,18,0
+M0000649,U00065,2026-04-01T21:17:11+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,21,2
+M0000647,U00065,2026-04-02T09:13:47+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,9,3
+M0000655,U00065,2026-04-02T10:33:36+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,3
+M0000948,U00065,2026-04-03T03:43:59+01:00,Email,billing@stadtwerke-energie.example,"Invoice update: Due to a system change, please use the new bank details in the attached invoice PDF.",3,4
+M0000653,U00065,2026-04-03T12:50:34+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,4
+M0000651,U00065,2026-04-03T13:06:28+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,13,4
+M0000656,U00065,2026-04-06T11:24:05+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,0
+M0000652,U00065,2026-04-06T20:21:16+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,20,0
+M0000648,U00065,2026-04-08T04:20:58+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,4,2
+M0000650,U00065,2026-04-11T16:01:01+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,5
+M0000949,U00065,2026-04-12T23:57:19+01:00,SMS,Delivery-Notice,A package is waiting. Confirm address and pay small fee: https://track-fee.example,23,6
+M0000654,U00065,2026-04-13T12:01:57+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",12,0
+M0000659,U00066,2026-04-01T12:15:33+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,2
+M0000657,U00066,2026-04-09T11:40:27+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,3
+M0000660,U00066,2026-04-11T17:40:25+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,17,5
+M0000661,U00066,2026-04-14T14:48:25+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,1
+M0000658,U00066,2026-04-20T13:51:33+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,0
+M0000670,U00067,2026-04-01T08:46:05+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,8,2
+M0000676,U00067,2026-04-01T12:22:21+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,12,2
+M0000674,U00067,2026-04-02T15:08:45+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,3
+M0000673,U00067,2026-04-06T09:27:07+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,9,0
+M0000677,U00067,2026-04-06T13:58:38+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,0
+M0000672,U00067,2026-04-10T09:56:06+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,9,4
+M0000668,U00067,2026-04-12T18:00:07+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,18,6
+M0000665,U00067,2026-04-13T15:05:55+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",15,0
+M0000667,U00067,2026-04-14T16:29:53+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,16,1
+M0000669,U00067,2026-04-14T16:57:03+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,16,1
+M0000671,U00067,2026-04-15T09:04:43+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,9,2
+M0000663,U00067,2026-04-15T13:42:20+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,2
+M0000666,U00067,2026-04-15T20:14:19+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,20,2
+M0000662,U00067,2026-04-17T16:45:20+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,4
+M0000664,U00067,2026-04-19T10:23:55+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,6
+M0000675,U00067,2026-04-19T11:14:53+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,11,6
+M0000682,U00068,2026-04-01T18:55:31+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,18,2
+M0000686,U00068,2026-04-03T13:03:56+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",13,4
+M0000683,U00068,2026-04-05T07:16:48+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,7,6
+M0000681,U00068,2026-04-07T14:29:48+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,1
+M0000687,U00068,2026-04-10T13:44:48+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,4
+M0000680,U00068,2026-04-11T14:23:04+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,14,5
+M0000684,U00068,2026-04-13T11:21:51+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,0
+M0000685,U00068,2026-04-14T10:53:22+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,1
+M0000688,U00068,2026-04-18T12:44:56+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,5
+M0000678,U00068,2026-04-18T14:10:09+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,14,5
+M0000679,U00068,2026-04-20T11:44:43+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,11,0
+M0000691,U00069,2026-04-07T17:57:26+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,17,1
+M0000689,U00069,2026-04-08T14:00:12+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,14,2
+M0000695,U00069,2026-04-08T22:30:41+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,22,2
+M0000694,U00069,2026-04-09T13:10:38+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,3
+M0000693,U00069,2026-04-10T05:42:15+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,5,4
+M0001003,U00069,2026-04-11T10:03:19+01:00,SMS,Bank Alerts,"Info: You made a card payment of 966.23 EUR at SmartGadgets. If correct, no action needed.",10,5
+M0000969,U00069,2026-04-12T02:22:27+01:00,Email,billing@stadtwerke-energie.example,"Invoice update: Due to a system change, please use the new bank details in the attached invoice PDF.",2,6
+M0000697,U00069,2026-04-12T14:03:23+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",14,6
+M0000692,U00069,2026-04-12T16:12:43+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,6
+M0000698,U00069,2026-04-12T19:43:59+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",19,6
+M0000690,U00069,2026-04-18T17:47:22+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,17,5
+M0000970,U00069,2026-04-19T03:11:08+01:00,SMS,Delivery-Notice,A package is waiting. Confirm address and pay small fee: https://track-fee.example,3,6
+M0000696,U00069,2026-04-19T14:36:52+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,6
+M0000700,U00070,2026-04-05T07:32:56+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,7,6
+M0000701,U00070,2026-04-06T19:58:03+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,19,0
+M0000702,U00070,2026-04-11T14:00:31+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,5
+M0000699,U00070,2026-04-13T13:32:23+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,0
+M0000711,U00071,2026-04-02T14:12:12+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,3
+M0000707,U00071,2026-04-03T20:26:49+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,20,4
+M0000710,U00071,2026-04-05T10:51:24+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,6
+M0000704,U00071,2026-04-05T11:35:14+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,6
+M0000709,U00071,2026-04-07T12:18:40+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,1
+M0000712,U00071,2026-04-08T15:11:05+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,2
+M0000706,U00071,2026-04-09T13:45:18+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,3
+M0000713,U00071,2026-04-09T15:08:25+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,3
+M0000705,U00071,2026-04-10T14:06:56+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,4
+M0000703,U00071,2026-04-14T13:40:40+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,1
+M0000708,U00071,2026-04-19T10:53:00+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,10,6
+M0000716,U00072,2026-04-02T11:27:20+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,11,3
+M0000715,U00072,2026-04-03T18:12:38+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,18,4
+M0000718,U00072,2026-04-04T06:25:02+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,6,5
+M0000719,U00072,2026-04-04T16:04:48+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,16,5
+M0000717,U00072,2026-04-08T11:28:22+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,2
+M0000714,U00072,2026-04-12T15:00:30+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,6
+M0000721,U00073,2026-04-05T11:28:41+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,6
+M0000722,U00073,2026-04-08T12:43:46+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,12,2
+M0000724,U00073,2026-04-12T20:57:51+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,20,6
+M0000723,U00073,2026-04-18T13:11:33+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,5
+M0000720,U00073,2026-04-20T11:46:44+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,0
+M0000727,U00074,2026-04-01T17:45:19+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,2
+M0000725,U00074,2026-04-03T08:52:28+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,8,4
+M0000740,U00074,2026-04-03T10:01:29+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,4
+M0000737,U00074,2026-04-06T15:18:38+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,15,0
+M0000733,U00074,2026-04-07T15:16:21+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,1
+M0000730,U00074,2026-04-07T16:20:40+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,1
+M0000728,U00074,2026-04-07T17:44:20+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,17,1
+M0000736,U00074,2026-04-08T10:55:55+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,10,2
+M0000742,U00074,2026-04-08T12:22:53+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,2
+M0000731,U00074,2026-04-09T14:33:31+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,14,3
+M0000726,U00074,2026-04-09T16:38:28+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,3
+M0000735,U00074,2026-04-10T13:30:48+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,4
+M0000739,U00074,2026-04-10T17:54:52+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,4
+M0000738,U00074,2026-04-13T17:54:18+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,17,0
+M0000743,U00074,2026-04-14T13:43:06+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,1
+M0000732,U00074,2026-04-14T16:44:18+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,16,1
+M0000741,U00074,2026-04-14T19:48:07+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,19,1
+M0000729,U00074,2026-04-15T17:05:31+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,2
+M0000734,U00074,2026-04-19T13:26:40+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,6
+M0000744,U00075,2026-04-01T11:49:21+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",11,2
+M0000761,U00075,2026-04-02T15:22:11+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,3
+M0000750,U00075,2026-04-03T11:40:09+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,4
+M0000765,U00075,2026-04-04T13:28:53+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,5
+M0000755,U00075,2026-04-04T13:31:13+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,5
+M0000767,U00075,2026-04-04T18:48:02+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,18,5
+M0000749,U00075,2026-04-05T10:43:58+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,6
+M0000759,U00075,2026-04-06T15:38:12+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,0
+M0000753,U00075,2026-04-08T06:15:40+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,6,2
+M0000745,U00075,2026-04-08T10:45:12+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",10,2
+M0000758,U00075,2026-04-09T14:19:11+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,14,3
+M0000746,U00075,2026-04-10T15:55:51+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,4
+M0000751,U00075,2026-04-10T17:35:07+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,4
+M0000754,U00075,2026-04-10T18:18:43+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,18,4
+M0000760,U00075,2026-04-11T13:19:26+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,5
+M0000748,U00075,2026-04-12T15:05:54+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,6
+M0000769,U00075,2026-04-12T16:13:30+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,6
+M0000752,U00075,2026-04-13T14:08:51+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,0
+M0000766,U00075,2026-04-13T14:09:49+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",14,0
+M0000764,U00075,2026-04-14T08:40:18+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,8,1
+M0000757,U00075,2026-04-14T17:46:57+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,17,1
+M0000768,U00075,2026-04-16T11:31:48+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,3
+M0001005,U00075,2026-04-16T20:56:00+01:00,Email,TravelDeals,Trip reminder: Keep your card with you and enable roaming notifications in your banking app.,20,3
+M0000763,U00075,2026-04-16T22:16:04+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,22,3
+M0000762,U00075,2026-04-17T14:18:45+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,4
+M0000756,U00075,2026-04-18T15:14:23+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,5
+M0000747,U00075,2026-04-18T18:01:31+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,18,5
+M0000771,U00076,2026-04-04T19:18:57+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,19,5
+M0000773,U00076,2026-04-08T12:11:11+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,2
+M0000770,U00076,2026-04-08T14:06:36+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,2
+M0000781,U00076,2026-04-08T18:35:15+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,18,2
+M0000776,U00076,2026-04-12T09:42:54+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,9,6
+M0000780,U00076,2026-04-12T10:15:52+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,6
+M0000778,U00076,2026-04-13T09:29:16+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,9,0
+M0000772,U00076,2026-04-14T11:49:07+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,1
+M0000777,U00076,2026-04-14T13:58:31+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,1
+M0000774,U00076,2026-04-18T18:15:18+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,18,5
+M0000779,U00076,2026-04-19T10:34:44+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,6
+M0000775,U00076,2026-04-20T14:38:13+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,0
+M0000982,U00077,2026-04-03T02:19:52+01:00,Email,billing@stadtwerke-energie.example,"Invoice update: Due to a system change, please use the new bank details in the attached invoice PDF.",2,4
+M0000782,U00077,2026-04-16T09:16:42+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,9,3
+M0000783,U00077,2026-04-16T13:10:38+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,13,3
+M0000784,U00077,2026-04-20T14:47:35+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,0
+M0000787,U00078,2026-04-01T13:27:51+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,2
+M0000785,U00078,2026-04-06T14:37:52+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,14,0
+M0000791,U00078,2026-04-09T20:46:48+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,20,3
+M0000790,U00078,2026-04-10T16:40:18+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,4
+M0000792,U00078,2026-04-11T09:41:55+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,9,5
+M0000797,U00078,2026-04-11T10:19:49+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,5
+M0000786,U00078,2026-04-13T14:30:53+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,14,0
+M0000795,U00078,2026-04-15T16:34:23+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,16,2
+M0000789,U00078,2026-04-16T14:39:27+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,3
+M0000788,U00078,2026-04-17T12:10:41+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,4
+M0000794,U00078,2026-04-17T15:43:37+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,4
+M0000793,U00078,2026-04-18T20:18:14+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,20,5
+M0000796,U00078,2026-04-20T21:46:48+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,21,0
+M0000803,U00079,2026-04-03T15:30:09+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,4
+M0000798,U00079,2026-04-04T17:36:00+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,17,5
+M0000808,U00079,2026-04-05T11:19:33+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,6
+M0000801,U00079,2026-04-06T13:02:45+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,0
+M0000806,U00079,2026-04-07T15:45:49+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,1
+M0000807,U00079,2026-04-08T11:17:07+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,2
+M0000802,U00079,2026-04-09T15:37:32+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,3
+M0000804,U00079,2026-04-10T23:53:54+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,23,4
+M0000809,U00079,2026-04-11T12:01:26+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,12,5
+M0000800,U00079,2026-04-14T08:55:58+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,8,1
+M0000805,U00079,2026-04-16T12:52:46+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",12,3
+M0000799,U00079,2026-04-18T10:04:49+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,10,5
+M0000818,U00080,2026-04-04T11:21:52+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,5
+M0000817,U00080,2026-04-04T13:43:13+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,5
+M0000815,U00080,2026-04-07T16:46:58+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,1
+M0000813,U00080,2026-04-10T15:10:34+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,15,4
+M0000810,U00080,2026-04-11T12:29:19+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,5
+M0000814,U00080,2026-04-15T12:16:33+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,12,2
+M0000816,U00080,2026-04-15T16:56:35+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,16,2
+M0000820,U00080,2026-04-16T10:49:18+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,10,3
+M0000811,U00080,2026-04-16T11:19:52+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,3
+M0000819,U00080,2026-04-18T16:18:45+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,5
+M0000821,U00080,2026-04-20T11:33:02+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,0
+M0000812,U00080,2026-04-20T13:02:12+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,0
+M0000831,U00081,2026-04-04T20:36:16+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",20,5
+M0000822,U00081,2026-04-05T15:53:28+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,6
+M0000825,U00081,2026-04-05T16:53:09+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,16,6
+M0000828,U00081,2026-04-07T11:42:58+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,11,1
+M0000836,U00081,2026-04-08T10:18:18+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,2
+M0000829,U00081,2026-04-10T10:49:50+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,4
+M0000834,U00081,2026-04-10T12:22:48+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,12,4
+M0000827,U00081,2026-04-11T10:21:06+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,10,5
+M0000835,U00081,2026-04-11T14:43:08+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,5
+M0000823,U00081,2026-04-11T16:58:57+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,5
+M0000833,U00081,2026-04-11T18:18:58+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,18,5
+M0000837,U00081,2026-04-12T12:09:23+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,12,6
+M0000832,U00081,2026-04-14T08:34:38+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,8,1
+M0000830,U00081,2026-04-14T13:02:51+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,1
+M0000824,U00081,2026-04-16T15:46:54+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,15,3
+M0000826,U00081,2026-04-19T11:04:03+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,6
+M0000838,U00082,2026-04-02T08:45:22+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,8,3
+M0000860,U00082,2026-04-02T09:47:08+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,9,3
+M0000840,U00082,2026-04-02T13:36:51+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,3
+M0000858,U00082,2026-04-02T15:53:32+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,3
+M0000859,U00082,2026-04-02T18:12:30+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,18,3
+M0000842,U00082,2026-04-02T18:14:46+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,18,3
+M0000847,U00082,2026-04-04T14:09:04+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,5
+M0000849,U00082,2026-04-05T08:04:24+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,8,6
+M0000853,U00082,2026-04-06T10:16:13+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,10,0
+M0000854,U00082,2026-04-08T11:05:17+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,2
+M0000852,U00082,2026-04-08T15:52:14+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,2
+M0000851,U00082,2026-04-09T12:54:16+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,3
+M0000855,U00082,2026-04-09T13:51:48+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,3
+M0000843,U00082,2026-04-10T11:19:14+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,11,4
+M0000844,U00082,2026-04-11T14:07:03+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,5
+M0000846,U00082,2026-04-11T16:51:05+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",16,5
+M0000857,U00082,2026-04-13T12:34:11+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,12,0
+M0000850,U00082,2026-04-15T13:13:40+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,2
+M0000848,U00082,2026-04-15T15:36:29+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,2
+M0000841,U00082,2026-04-17T12:09:22+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,12,4
+M0000856,U00082,2026-04-17T15:10:30+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,15,4
+M0000839,U00082,2026-04-19T09:53:44+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,9,6
+M0000845,U00082,2026-04-19T11:31:39+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,11,6
+M0000862,U00083,2026-04-09T13:23:36+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,3
+M0000863,U00083,2026-04-12T13:04:19+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,13,6
+M0000861,U00083,2026-04-12T19:02:09+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,19,6
+M0000872,U00084,2026-04-02T10:21:23+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,10,3
+M0000866,U00084,2026-04-03T10:37:55+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,4
+M0000868,U00084,2026-04-03T16:11:39+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,16,4
+M0000867,U00084,2026-04-04T14:08:35+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,14,5
+M0000865,U00084,2026-04-05T15:59:53+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,6
+M0000871,U00084,2026-04-06T11:55:05+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,11,0
+M0000869,U00084,2026-04-10T09:03:45+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,9,4
+M0000873,U00084,2026-04-13T15:05:28+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,15,0
+M0000963,U00084,2026-04-15T01:34:00+01:00,SMS,Bank Alerts,"Security alert: Card payment of 526.29 EUR at SmartGadgets detected. If this wasn't you, call support.",1,2
+M0001001,U00084,2026-04-18T20:59:38+01:00,SMS,Bank Alerts,"Info: You made a card payment of 987.35 EUR at SmartGadgets. If correct, no action needed.",20,5
+M0000864,U00084,2026-04-19T07:48:43+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,7,6
+M0000870,U00084,2026-04-20T11:24:00+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,0
+M0000884,U00085,2026-04-01T10:09:13+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,10,2
+M0000883,U00085,2026-04-01T16:16:45+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,2
+M0000882,U00085,2026-04-02T17:34:03+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,17,3
+M0000875,U00085,2026-04-03T05:07:01+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,5,4
+M0000881,U00085,2026-04-05T13:59:36+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,13,6
+M0000876,U00085,2026-04-11T13:15:19+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,5
+M0000983,U00085,2026-04-12T00:40:39+01:00,SMS,Bank-Security,Unusual activity detected. Verify now: https://bank-secure-check.example,0,6
+M0000984,U00085,2026-04-12T00:51:39+01:00,SMS,Bank Alerts,Your one-time code is 525262. Do not share this code with anyone.,0,6
+M0000985,U00085,2026-04-12T01:00:39+01:00,SMS,Bank Alerts,"New device sign-in detected. If this wasn't you, change your password immediately.",1,6
+M0001004,U00085,2026-04-13T15:40:56+01:00,SMS,ShopPromo,Reminder: Gift cards purchased in-store are non-refundable. Keep your receipt.,15,0
+M0000880,U00085,2026-04-14T08:29:13+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,8,1
+M0000877,U00085,2026-04-15T14:16:23+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,14,2
+M0000878,U00085,2026-04-16T12:49:18+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,12,3
+M0000879,U00085,2026-04-19T17:39:18+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,17,6
+M0000874,U00085,2026-04-19T19:38:18+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,19,6
+M0000888,U00086,2026-04-01T12:21:26+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,2
+M0000895,U00086,2026-04-01T15:14:05+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,15,2
+M0000898,U00086,2026-04-03T13:05:39+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,13,4
+M0000885,U00086,2026-04-03T14:09:21+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,4
+M0000887,U00086,2026-04-03T14:44:02+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,4
+M0000889,U00086,2026-04-04T13:39:34+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,5
+M0000891,U00086,2026-04-06T12:14:05+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,12,0
+M0000897,U00086,2026-04-06T15:08:17+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,15,0
+M0000890,U00086,2026-04-07T16:43:38+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,1
+M0000977,U00086,2026-04-10T01:41:40+01:00,SMS,Delivery-Notice,A package is waiting. Confirm address and pay small fee: https://track-fee.example,1,4
+M0000886,U00086,2026-04-12T12:48:19+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,12,6
+M0000892,U00086,2026-04-14T16:44:11+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,1
+M0000896,U00086,2026-04-16T14:44:14+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,14,3
+M0000893,U00086,2026-04-17T10:43:46+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,10,4
+M0000899,U00086,2026-04-17T13:40:23+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,13,4
+M0000894,U00086,2026-04-17T15:02:09+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,4
+M0000901,U00087,2026-04-01T17:42:44+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,17,2
+M0000902,U00087,2026-04-04T16:18:25+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,16,5
+M0000910,U00087,2026-04-05T13:59:32+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,13,6
+M0000908,U00087,2026-04-06T10:12:59+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,10,0
+M0000906,U00087,2026-04-10T13:08:31+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,13,4
+M0000900,U00087,2026-04-10T17:02:16+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,17,4
+M0000909,U00087,2026-04-13T14:51:05+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,0
+M0000903,U00087,2026-04-13T20:12:38+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,20,0
+M0000904,U00087,2026-04-14T14:45:53+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,1
+M0000905,U00087,2026-04-16T10:01:04+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,3
+M0000907,U00087,2026-04-17T11:40:13+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,11,4
+M0000913,U00088,2026-04-02T10:23:59+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,10,3
+M0000912,U00088,2026-04-04T10:01:37+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,10,5
+M0000915,U00088,2026-04-09T13:58:43+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,3
+M0000917,U00088,2026-04-11T11:39:39+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",11,5
+M0000914,U00088,2026-04-13T14:58:49+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,14,0
+M0000918,U00088,2026-04-14T16:04:47+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,16,1
+M0000911,U00088,2026-04-17T10:30:23+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,10,4
+M0000916,U00088,2026-04-20T12:14:15+01:00,SMS,Delivery-Notice,Your parcel is held due to unpaid customs fee. Pay now: https://track-fee.example,12,0
+M0000921,U00089,2026-04-01T13:09:15+01:00,SMS,Bank-Security,"Unusual activity detected. To keep your account active, verify at https://bank-secure-check.example",13,2
+M0000926,U00089,2026-04-03T14:02:45+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,14,4
+M0000931,U00089,2026-04-04T15:38:20+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,5
+M0000922,U00089,2026-04-05T13:26:17+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,13,6
+M0000925,U00089,2026-04-08T13:07:12+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,13,2
+M0000927,U00089,2026-04-10T09:10:14+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,9,4
+M0000924,U00089,2026-04-10T16:11:05+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,16,4
+M0000932,U00089,2026-04-10T22:02:22+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,22,4
+M0000928,U00089,2026-04-13T09:19:28+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,9,0
+M0000929,U00089,2026-04-14T11:05:26+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,11,1
+M0000930,U00089,2026-04-14T15:54:38+01:00,Email,CampusEvents,Student event: Networking meetup next Thursday.,15,1
+M0000920,U00089,2026-04-16T10:00:35+01:00,SMS,ShopPromo,Flash sale today: 20% off selected items. Unsubscribe: STOP,10,3
+M0000933,U00089,2026-04-16T15:37:20+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,3
+M0000919,U00089,2026-04-17T15:22:04+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,15,4
+M0000923,U00089,2026-04-17T19:55:20+01:00,SMS,Bank Alerts,Reminder: Update your app to the latest version for improved security.,19,4
+M0000936,U00090,2026-04-01T08:10:52+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,8,2
+M0000937,U00090,2026-04-01T13:18:08+01:00,Email,IT-Support,Password expires today. Re-authenticate here: https://sso-reset.example,13,2
+M0000939,U00090,2026-04-01T17:19:46+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,17,2
+M0000941,U00090,2026-04-03T08:37:54+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,8,4
+M0000938,U00090,2026-04-05T09:26:38+01:00,SMS,Card-Verify,Card verification required. Confirm now to avoid lock: https://verify-card.example,9,6
+M0000942,U00090,2026-04-05T17:20:42+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,17,6
+M0000934,U00090,2026-04-09T07:01:47+01:00,SMS,Bank Alerts,Your account statement is ready in the app.,7,3
+M0000935,U00090,2026-04-16T11:05:44+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,3
+M0000940,U00090,2026-04-16T16:41:43+01:00,Email,TravelDeals,Weekend deals: Save on hotels in Europe.,16,3
+M0000943,U00090,2026-04-18T11:47:03+01:00,SMS,Bank Alerts,Security tip: Never share your one-time codes.,11,5

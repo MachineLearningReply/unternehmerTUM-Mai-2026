@@ -1,0 +1,16 @@
+{
+  "train":{
+    "users":220,
+    "transactions":39507,
+    "fraud_txns":157,
+    "messages":10763,
+    "phish_messages":1585
+  },
+  "test":{
+    "users":90,
+    "transactions":3740,
+    "fraud_txns":98,
+    "messages":1005,
+    "phish_messages":181
+  }
+}

@@ -142,13 +142,13 @@ Even if the detector is a classifier, the agent packages it into a decision work
 The repo includes a baseline sample you can run to generate a submission:
 
 ```bash
-python3 /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/solutions/sample_solution.py --out /tmp/submission.csv
+python3 ./solutions/sample_solution.py --out /tmp/submission.csv
 ```
 
 An “agentic” variant (adds LLM-powered alert explanations; defaults to offline mock):
 
 ```bash
-LLM_MODE=mock python3 /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/solutions/agentic_solution.py \
+LLM_MODE=mock python3 ./solutions/agentic_solution.py \
   --out /tmp/agentic_submission.csv \
   --out-jsonl /tmp/agentic_alerts.jsonl
 ```
@@ -160,7 +160,7 @@ To use a real OpenAI-compatible endpoint, see `agents/README.md` for env vars.
 If teams want an explicitly adaptive/agentic loop, you can demo:
 
 ```bash
-LLM_MODE=mock python3 /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/solutions/rule_suggester.py --data-dir /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/data
+LLM_MODE=mock python3 ./solutions/rule_suggester.py --data-dir ./data
 ```
 
 It shows how an agent could propose new features/rules from validation error cases (or drift symptoms).
@@ -168,14 +168,14 @@ It shows how an agent could propose new features/rules from validation error cas
 ## Evaluating student submissions
 
 Use:
-- `/Users/s.zanwar/Work/Reply/NLP/TUMunternehem/eval/evaluate_submission.py`
+- `./eval/evaluate_submission.py`
 
 Example:
 
 ```bash
-python3 /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/eval/evaluate_submission.py \\
+python3 ./eval/evaluate_submission.py \\
   --pred /path/to/team_submission.csv \\
-  --data-dir /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/data/test
+  --data-dir ./data/test
 ```
 
 It prints:

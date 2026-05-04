@@ -11,7 +11,7 @@ This folder contains a baseline reference implementation that:
 Run:
 
 ```bash
-python3 /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/solutions/sample_solution.py --out /tmp/submission.csv
+python3 ./solutions/sample_solution.py --out /tmp/submission.csv
 ```
 
 Outputs:
@@ -24,7 +24,7 @@ This variant keeps a normal fraud scoring model, but adds an LLM-powered “Aler
 to produce structured explanations and recommended actions (offline mock by default):
 
 ```bash
-LLM_MODE=mock python3 /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/solutions/agentic_solution.py \
+LLM_MODE=mock python3 ./solutions/agentic_solution.py \
   --out /tmp/agentic_submission.csv \
   --out-jsonl /tmp/agentic_alerts.jsonl
 ```

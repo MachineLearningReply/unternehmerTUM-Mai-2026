@@ -7,9 +7,9 @@ This folder contains a simple evaluator that compares a submission to the hidden
 ## Run
 
 ```bash
-python3 /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/eval/evaluate_submission.py \
+python3 ./eval/evaluate_submission.py \
   --pred /path/to/submission.csv \
-  --data-dir /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/data/test
+  --data-dir ./data/test
 ```
 
 ## Output
@@ -31,9 +31,9 @@ The script prints JSON including:
 You can change the extra false-positive penalty:
 
 ```bash
-python3 /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/eval/evaluate_submission.py \
+python3 ./eval/evaluate_submission.py \
   --pred /path/to/submission.csv \
-  --data-dir /Users/s.zanwar/Work/Reply/NLP/TUMunternehem/data/test \
+  --data-dir ./data/test \
   --fp-extra-cost 10.0
 ```
 

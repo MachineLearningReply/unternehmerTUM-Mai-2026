@@ -9,8 +9,8 @@
   "test":{
     "users":90,
     "transactions":3740,
-    "fraud_txns":98,
+    "fraud_txns":"REDACTED",
     "messages":1005,
-    "phish_messages":181
+    "phish_messages":"REDACTED"
   }
 }
